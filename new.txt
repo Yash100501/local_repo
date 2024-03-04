@@ -1,3 +1,10 @@
 This is new text file
 
 Now new line
+
+
+new line for feature
+
+2nd line
+
+
